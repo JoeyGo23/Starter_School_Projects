@@ -1,0 +1,18 @@
+body { font-family: "Times New Roman"; }
+h1 { color: purple; font-family: "Arial";}
+h1 { color: red;}
+li { color:blue;}
+.horiz{
+	height:1px;
+	border-top:1px solid black;
+	text-align: center;
+	position: relative;
+}
+#15{;
+}
+.BMW { 
+	/*display: none;*/
+	color:gray;
+}
+.MERCEDES { color: red;
+}
